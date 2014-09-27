@@ -1,0 +1,15 @@
+{
+	"name": "Jobs",
+	"description": "jobs for 12 rang",
+
+	"author": "Amir Moharami",
+	"authorEmail": "a.moharami@gmail.com",
+	"authorUrl": "amirmoharmai.ir",
+
+	"dependencies": {
+		"plugins": [
+			"acl",
+			"extensions"
+		]
+	}
+}
